@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c0061797e3d2927ce1316c74d07450dcaeb60785 Veunder . <misha@DESKTOP-2ANAL5T.(none)> 1696775843 +0300	clone: from https://github.com/SFML/SFML.git
+c0061797e3d2927ce1316c74d07450dcaeb60785 7cd1ce1385a614fb39919776ec38d00bfebd03ef Veunder . <misha@DESKTOP-2ANAL5T.(none)> 1696775844 +0300	checkout: moving from master to 2.6.x
+7cd1ce1385a614fb39919776ec38d00bfebd03ef c1c65b53ec2c13e25c83fed5fee9c22562736a60 Veunder <mishagelevei2008@gmail.com> 1700382228 +0300	rebase (start): checkout origin/2.6.x
+c1c65b53ec2c13e25c83fed5fee9c22562736a60 c1c65b53ec2c13e25c83fed5fee9c22562736a60 Veunder <mishagelevei2008@gmail.com> 1700382228 +0300	rebase (finish): returning to refs/heads/2.6.x
+c1c65b53ec2c13e25c83fed5fee9c22562736a60 5e18e5403b3ef583064723a3f7169a76df6d521a Veunder <mishagelevei2008@gmail.com> 1705434055 +0300	rebase (start): checkout origin/2.6.x
+5e18e5403b3ef583064723a3f7169a76df6d521a 5e18e5403b3ef583064723a3f7169a76df6d521a Veunder <mishagelevei2008@gmail.com> 1705434055 +0300	rebase (finish): returning to refs/heads/2.6.x
+5e18e5403b3ef583064723a3f7169a76df6d521a 5a74cf33e92008920bfd04698dbd6a7733e1c269 Veunder <mishagelevei2008@gmail.com> 1708967993 +0300	rebase (start): checkout origin/2.6.x
+5a74cf33e92008920bfd04698dbd6a7733e1c269 5a74cf33e92008920bfd04698dbd6a7733e1c269 Veunder <mishagelevei2008@gmail.com> 1708967993 +0300	rebase (finish): returning to refs/heads/2.6.x

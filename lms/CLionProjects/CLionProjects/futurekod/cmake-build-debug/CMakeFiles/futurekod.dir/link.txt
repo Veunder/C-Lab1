@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/futurekod.dir/main.cpp.o CMakeFiles/futurekod.dir/1.3.cpp.o -o futurekod 
