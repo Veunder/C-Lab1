@@ -35,7 +35,6 @@ int main() {
     cv::Mat frame;
     cv::VideoCapture gif("/home/veunder/CLionProjects/ML/GIF.gif");
     cv::Mat gifFrame;
-    cv::Mat image = cv::imread("/home/veunder/CLionProjects/ML/img.png");
     bool timeFlag = false;
     bool gifFlag = false;
     while (cap.read(frame)) {
