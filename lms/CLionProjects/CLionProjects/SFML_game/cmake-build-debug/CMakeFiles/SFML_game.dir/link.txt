@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/SFML_game.dir/main.cpp.o -o SFML_game 

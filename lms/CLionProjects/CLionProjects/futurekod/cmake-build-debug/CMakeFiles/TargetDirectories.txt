@@ -1,3 +1,0 @@
-/mnt/c/Users/misha/CLionProjects/futurekod/cmake-build-debug/CMakeFiles/futurekod.dir
-/mnt/c/Users/misha/CLionProjects/futurekod/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/misha/CLionProjects/futurekod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
